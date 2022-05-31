@@ -6,6 +6,8 @@ Our full research paper: Checking smart contracts with structural code embedding
 https://ieeexplore.ieee.org/document/8979435  
 https://arxiv.org/abs/2001.07125
 
+More Details: https://www.monash.edu/it/humanise-lab/projects/completed-projects/smartembed
+
 SmartEmbed has been published as a tool demo by on [ICSME-2019](https://icsme2019.github.io/), for details of the implementation please refer to our paper:  
 https://arxiv.org/abs/1908.08615
 
